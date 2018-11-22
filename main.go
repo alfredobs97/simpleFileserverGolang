@@ -1,5 +1,6 @@
 package main
-#powered by https://github.com/pabloos 
+
+//powered by https://github.com/pabloos
 import (
 	"bytes"
 	"flag"
